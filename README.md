@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pinhas Meguideche
-- 👀 I’m interested in Java, Python, C#, C++ projects
+- 👀 I’m interested in Java, Python, C#, C++ and devops projects
 - 🌱 Bachelor of Science in Computer Science , High GPA
 - 💞️ I’m looking to surpass myself and learn a lot
 - 📫 How to reach me ...you can send me an email: pinhas.meguideche@gmail.com
