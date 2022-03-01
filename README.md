@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pinhas Meguideche
-- 👀 I’m interested in Java, Python, C#, C++ and devops projects
+- 👀 I’m interested in Java, Python, NodeJS, C#, C++ and devops projects
 - 🌱 Bachelor of Science in Computer Science , High GPA
 - 💞️ I’m looking to surpass myself and learn a lot
 - 🌱 I'm currently working as junior software enginner in MalamTeam 
