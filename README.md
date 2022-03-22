@@ -4,7 +4,7 @@
 - 💞️ I’m looking to surpass myself and learn a lot
 - 🌱 I'm currently working as junior software enginner in MalamTeam 
 - 📫 How to reach me...you can send me an email: pinhas.meguideche@gmail.com
-- My Linkedin profil... https://www.linkedin.com/in/pinhas-meguideche-5a6bb0b7
+- 👔 My Linkedin profil... https://www.linkedin.com/in/pinhas-meguideche-5a6bb0b7
 
                          
 
