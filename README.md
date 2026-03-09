@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pinhas Meguideche
-- 👀 I’m interested in Java, Python, NodeJS, C#, C++ and devops projects
+- 👀 I’m interested in Java, Spring Boot Python, NodeJS, C# projects
 - 🌱 Bachelor of Science in Computer Science , High GPA
 - 💞️ I’m looking to surpass myself and learn a lot
 - 📫 How to reach me...you can send me an email: pinhas.meguideche@gmail.com
